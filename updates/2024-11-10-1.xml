@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServerPack version="4.1" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
+	<Server id="2024-11-10-1" abstract="false" name="2024-11-10-1" newsUrl="about:blank" version="1.20.1" generateList="false" autoConnect="false" revision="" mainClass="net.minecraft.launchwrapper.Launch" launcherType="Vanilla">
+		<Module name="Lithosphere" id="mr_lithosphere" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/iv9jp2k9/versions/7mWcbA0m/lithosphere-1.2.jar</URL>
+			<Size>415266</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>619c123a516849260c3a312f8a6dd7a2</MD5>
+			<Meta>
+				<license>LicenseRef-All-Rights-Reserved</license>
+				<description>Lithosphere aims to change the overworld worldgen to be more cinematic, polished and beautiful.</description>
+				<version>1.2</version>
+				<authors>Jayzet</authors>
+			</Meta>
+		</Module>
+		<Module name="Tectonic" id="tectonic" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/lWDHr9jE/versions/ubqOXeYf/tectonic-forge-1.20.1-2.4.1.jar</URL>
+			<Size>349125</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e4646116efca671837889dd58cad9844</MD5>
+			<Meta>
+				<license>MIT</license>
+				<description>Massively altered world generation with mountain ranges, underground rivers and more!</description>
+				<version>2.4.1</version>
+				<authors>Apollo</authors>
+			</Meta>
+		</Module>
+		<Module name="Terralith" id="terralith" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar</URL>
+			<Size>3156901</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b143cfd648086c68d7f47a86b8994ee3</MD5>
+			<Meta>
+				<license>Stardust Labs License</license>
+				<description>Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain.</description>
+				<version>2.5.4</version>
+				<authors>Starmute, catter1, TheKingWhale, Apollounknowndev</authors>
+			</Meta>
+		</Module>
+		<Module name="Navigable Rivers" id="navigable_rivers" depends="" side="BOTH">
+			<Size>100000</Size>
+			<Required>false</Required>
+			<ModType>Removal</ModType>
+		</Module>
+		<Module name="Cloth Config v10 API" id="cloth_config" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar</URL>
+			<Size>1181413</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ca5de5acbcb4a30c010aa6953bd7ef53</MD5>
+			<Meta>
+				<license>GNU LGPLv3</license>
+				<description>An API for config screens.
+</description>
+				<version>11.1.136</version>
+				<authors></authors>
+			</Meta>
+		</Module>
+		<Module name="TerraBlender" id="terrablender" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/kkmrDlKT/versions/HI0iCUpi/TerraBlender-forge-1.20.1-3.0.1.7.jar</URL>
+			<Size>107534</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>59a1a66895bb140b94f9c3c26486ce80</MD5>
+			<Meta>
+				<license>LGPLv3</license>
+				<description>A library mod for adding biomes in a simple and compatible manner with Minecraft&apos;s new biome/terrain system.</description>
+				<version>3.0.1.7</version>
+				<authors>Adubbz</authors>
+			</Meta>
+		</Module>
+	</Server>
+</ServerPack>
