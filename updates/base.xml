@@ -51,8 +51,7 @@ You might have to add the entity in the config file first.</description>
 			<MD5>235b0d09bf63965f9a132a3d494c7b21</MD5>
 			<Meta>
 				<license>All rights reserved</license>
-				<description>Abstraction Layer (but not really)™ for Blay&apos;s multiplatform mods
-</description>
+				<description>Abstraction Layer (but not really) for Blay&apos;s multiplatform mods</description>
 				<version>7.3.10</version>
 				<authors>BlayTheNinth</authors>
 			</Meta>
