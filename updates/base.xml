@@ -2,15 +2,15 @@
 <ServerPack version="4.1" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
 	<Server id="base" abstract="false" name="base" newsUrl="about:blank" version="1.20.1" generateList="false" autoConnect="false" revision="" mainClass="cpw.mods.bootstraplauncher.BootstrapLauncher" launcherType="Vanilla">
 		<Module name="AmbientSounds" id="ambientsounds" depends="creativecore" side="CLIENT">
-			<URL priority="1">https://cdn.modrinth.com/data/fM515JnW/versions/y9dzqT2N/AmbientSounds_FORGE_v6.1.3_mc1.20.1.jar</URL>
-			<Size>83885723</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/fM515JnW/versions/8wDLqykj/AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar</URL>
+			<Size>83885725</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>5c2ad8a359a060b9a133e4c8abb6d1f7</MD5>
+			<MD5>247711ab69fc8d7597bb652180199be3</MD5>
 			<Meta>
 				<license>LGPL-3.0-only</license>
 				<description>Expands minecraft&apos;s ambient sounds.</description>
-				<version>6.1.3</version>
+				<version>6.1.4</version>
 				<authors>CreativeMD, AriaFreeze</authors>
 			</Meta>
 		</Module>
@@ -44,58 +44,31 @@ You might have to add the entity in the config file first.</description>
 			</Meta>
 		</Module>
 		<Module name="Balm" id="balm" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/MBAkmtvl/versions/UTwD7ASf/balm-forge-1.20.1-7.3.9-all.jar</URL>
-			<Size>373583</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/MBAkmtvl/versions/9hXDXsUQ/balm-forge-1.20.1-7.3.10-all.jar</URL>
+			<Size>373791</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>a4942cad7f427131372ee23cd3f44d2b</MD5>
+			<MD5>235b0d09bf63965f9a132a3d494c7b21</MD5>
 			<Meta>
 				<license>All rights reserved</license>
-				<description>Abstraction Layer (but not really) for Blay&apos;s multiplatform mods</description>
-				<version>7.3.9</version>
+				<description>Abstraction Layer (but not really)™ for Blay&apos;s multiplatform mods
+</description>
+				<version>7.3.10</version>
 				<authors>BlayTheNinth</authors>
 			</Meta>
 		</Module>
 		<Module name="Better Advancements" id="betteradvancements" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/Q2OqKxDG/versions/U17TRk9r/BetterAdvancements-NeoForge-1.20.1-0.4.2.10.jar</URL>
-			<Size>98273</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/Q2OqKxDG/versions/NS5G3ENg/BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar</URL>
+			<Size>98274</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>6c2889c4f7b581c03420e6705ff4bd27</MD5>
+			<MD5>57538ea688a3eca6efa4a0f93df458ae</MD5>
 			<Meta>
 				<license>&quot;Don&apos;t Be a Jerk&quot; non-commercial care-free license</license>
 				<description>Improvements to the advancements screen.
 </description>
-				<version>0.4.2.10</version>
+				<version>0.4.2.25</version>
 				<authors>way2muchnoise</authors>
-			</Meta>
-		</Module>
-		<Module name="BlueMap" id="bluemap" depends="" side="SERVER">
-			<URL priority="1">https://cdn.modrinth.com/data/swbUV1cr/versions/aHbq9KFB/BlueMap-5.3-forge-1.20.jar</URL>
-			<Size>4780414</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>5de77eb3bf356431b3838fc1aabaa2d5</MD5>
-			<Meta>
-				<license>MIT</license>
-				<description>A 3d-map of your Minecraft worlds view-able in your browser using three.js (WebGL)
-</description>
-				<version>5.3</version>
-				<authors>Blue (TBlueF, Lukas Rieger)</authors>
-			</Meta>
-		</Module>
-		<Module name="Bluemap Frontiers" id="bluemapfrontiers" depends="bluemap mapfrontiers" side="SERVER">
-			<URL priority="1">https://cdn.modrinth.com/data/OGGG6gVy/versions/e6SxXn7W/bluemapfrontiers-1.20.1_forge-1.0.0.jar</URL>
-			<Size>30743</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>e3aedee07a35d01dfede4bf7053702bc</MD5>
-			<Meta>
-				<license>MIT</license>
-				<description>MapFrontiers integration for Bluemap
-</description>
-				<version>1.0.0</version>
-				<authors>ErdbeerbaerLP</authors>
 			</Meta>
 		</Module>
 		<Module name="Botarium" id="botarium" depends="" side="BOTH">
@@ -180,17 +153,17 @@ You might have to add the entity in the config file first.</description>
 			</Meta>
 		</Module>
 		<Module name="Corpse" id="corpse" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/WrpuIfhw/versions/jZpLvxa7/corpse-forge-1.20.1-1.0.17.jar</URL>
-			<Size>244310</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/WrpuIfhw/versions/TlmJAOz2/corpse-forge-1.20.1-1.0.19.jar</URL>
+			<Size>244998</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>acfa12cb6c0db7a8686d09193474c3a1</MD5>
+			<MD5>6817ad5bb3b1ec4fea99bbb96d689932</MD5>
 			<Meta>
 				<license>All rights reserved</license>
 				<description>This mod brings a corpse into the game.
 It will spawn upon your death containing all items that you had in your inventory.
 </description>
-				<version>1.20.1-1.0.17</version>
+				<version>1.20.1-1.0.19</version>
 				<authors>Max Henkel</authors>
 			</Meta>
 		</Module>
@@ -236,29 +209,28 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Create Railways Navigator" id="createrailwaysnavigator" depends="architectury dragonlib create" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/Dq3STxps/versions/8wTZoXnB/createrailwaysnavigator-forge-1.20.1-0.6.0.jar</URL>
-			<Size>2724565</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/Dq3STxps/versions/62Gvkkdt/createrailwaysnavigator-forge-1.20.1-beta-0.7.1.jar</URL>
+			<Size>2955333</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>4f7410eb44948310b9c0e64cec0d550d</MD5>
+			<MD5>2d3bf67481b76f33bd324ed6956cb8fc</MD5>
 			<Meta>
 				<license>GNU General Public License v3.0</license>
-				<description>Get possible train connections in your world from one station to another using the Create Railways Navigator. An addon for the Create Mod.
-</description>
-				<version>1.20.1-0.6.0</version>
+				<description>Get possible train connections in your world from one station to another using the Create Railways Navigator. An addon for the Create Mod.</description>
+				<version>1.20.1-beta-0.7.1</version>
 				<authors>MrJulsen</authors>
 			</Meta>
 		</Module>
 		<Module name="Create Slice &amp; Dice" id="sliceanddice" depends="create kotlinforforge" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/GmjmRQ0A/versions/bKH5nqMk/sliceanddice-forge-3.3.0.jar</URL>
-			<Size>1021924</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/GmjmRQ0A/versions/EzpVcwYV/sliceanddice-fabric-3.3.1.jar</URL>
+			<Size>563207</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>27aa1f2cd3dd93de1e59425760684068</MD5>
+			<MD5>c9038bc0c4ac424c5cb8cf193c1962eb</MD5>
 			<Meta>
-				<license>https://github.com/pssbletrngle/sliceanddice/blob/1.20.x/LICENSE.txt</license>
+				<license>CC0-1.0</license>
 				<description>Making automation for Farmers Delight more sensible</description>
-				<version>3.3.0</version>
+				<version>3.3.1</version>
 				<authors>possible_triangle</authors>
 			</Meta>
 		</Module>
@@ -286,20 +258,6 @@ It will spawn upon your death containing all items that you had in your inventor
 				<description>All the copycats you&apos;ve ever wanted, combined into a single mod!</description>
 				<version>2.1.4+mc.1.20.1-forge</version>
 				<authors>Lysine, Bennyboy1695, Redcat_XVIII</authors>
-			</Meta>
-		</Module>
-		<Module name="Create: Design n&apos; Decor" id="design_decor" depends="create" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/x49wilh8/versions/JtCSM1oV/design_decor-0.4.0b-1.20.1.jar</URL>
-			<Size>2439693</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>0448b0a460b69c9f1bed3c0da9aa73c1</MD5>
-			<Meta>
-				<license>MIT</license>
-				<description>dave&apos;s building extended but way better :3
-</description>
-				<version>0.4.0b</version>
-				<authors>DrMangoTea, Milky, Luna, Pepa, Spydnel</authors>
 			</Meta>
 		</Module>
 		<Module name="Create: Interiors" id="interiors" depends="create" side="BOTH">
@@ -386,67 +344,67 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="CreativeCore" id="creativecore" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/OsZiaDHq/versions/Kvr2Jjby/CreativeCore_FORGE_v2.12.20_mc1.20.1.jar</URL>
-			<Size>1144816</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/OsZiaDHq/versions/jx15KTr4/CreativeCore_FORGE_v2.12.27_mc1.20.1.jar</URL>
+			<Size>1153866</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>f1074bb950a026b16b96502a84138ce1</MD5>
+			<MD5>d8d1ab402048d9d73e9dafdbb51b0183</MD5>
 			<Meta>
 				<license>LGPL-3.0-only</license>
 				<description>A simple but powerful coremod.</description>
-				<version>2.12.20</version>
+				<version>2.12.27</version>
 				<authors>CreativeMD</authors>
 			</Meta>
 		</Module>
 		<Module name="Cristel Lib" id="cristellib" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/cl223EMc/versions/amI1oyGG/cristellib-1.1.5-forge.jar</URL>
-			<Size>431448</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/cl223EMc/versions/DOsSK4NK/cristellib-1.1.6-forge.jar</URL>
+			<Size>431318</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>60cd2d0a4d05922e24731eba64dcded4</MD5>
+			<MD5>b52e8b225a34abab9300049c85f6855a</MD5>
 			<Meta>
 				<license>CC BY-NC-ND 4.0</license>
 				<description>A Library mod for easy structure config and runtime datapacks.
 </description>
-				<version>1.1.5</version>
+				<version>1.1.6</version>
 				<authors>Cristelknight999</authors>
 			</Meta>
 		</Module>
 		<Module name="Cyclops Core" id="cyclopscore" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/Z9DM0LJ4/versions/elAdftA9/CyclopsCore-1.20.1-1.19.5.jar</URL>
-			<Size>905982</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/Z9DM0LJ4/versions/DecmuACQ/CyclopsCore-1.20.1-1.19.6.jar</URL>
+			<Size>906034</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>d3671aee8f3884bdab36119a5ab12b35</MD5>
+			<MD5>c9db0ecdd20b570a13820ce19b839843</MD5>
 			<Meta>
 				<license>MIT</license>
 				<description>Coremod for Integrated Dynamics, EvilCraft and others.
 </description>
-				<version>1.19.5</version>
+				<version>1.19.6</version>
 				<authors></authors>
 			</Meta>
 		</Module>
 		<Module name="Delightful" id="delightful" depends="farmersdelight" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/JtSnhtNJ/versions/w2tiYDkm/Delightful-1.20.1-3.6.jar</URL>
-			<Size>1040909</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/JtSnhtNJ/versions/Po9ii7gt/Delightful-1.20.1-3.6.1.jar</URL>
+			<Size>1041622</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>7e61f1c6d1cef0e012ef5ed071f17406</MD5>
+			<MD5>5870511992152dd53e9ce30cd1dcbce6</MD5>
 			<Meta>
 				<license>MIT License</license>
 				<description>Farmer&apos;s Delight addon with mod compatibility features and fun new foods.</description>
-				<version>3.6</version>
+				<version>3.6.1</version>
 				<authors>brnbrd</authors>
 			</Meta>
 		</Module>
 		<Module name="Distant Horizons" id="distanthorizons" depends="" side="CLIENT">
-			<URL priority="1">https://cdn.modrinth.com/data/uCdwusMi/versions/OwcStAhe/DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar</URL>
-			<Size>16460139</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/uCdwusMi/versions/20nF6i21/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar</URL>
+			<Size>16521385</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>57f92f2a0389612da4ce2b3ebc3f26bf</MD5>
+			<MD5>54dad6f74516f0cc4c92bd6f652ac8b0</MD5>
 			<Meta>
-				<version>2.1.2-a</version>
+				<version>2.2.1-a</version>
 			</Meta>
 		</Module>
 		<Module name="Dungeons and Taverns" id="mr_dungeons_andtaverns" depends="" side="BOTH">
@@ -490,16 +448,16 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="EntityCulling" id="entityculling" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/NNAgCjsB/versions/dlg7nMa6/entityculling-forge-1.7.0-mc1.20.1.jar</URL>
-			<Size>71441</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/NNAgCjsB/versions/yyU9Ifp0/entityculling-forge-1.7.2-mc1.20.1.jar</URL>
+			<Size>73584</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>972ecec86e34cf5e2172c15e6e68119b</MD5>
+			<MD5>57c8efca30eb7fbf83757148e1dd5290</MD5>
 			<Meta>
 				<license>tr7zw Protective License</license>
 				<description>This mod uses async path-tracing to hide Tiles/Entities that are not visible.
 </description>
-				<version>1.7.0</version>
+				<version>1.7.2</version>
 				<authors>tr7zw</authors>
 			</Meta>
 		</Module>
@@ -531,15 +489,15 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Farmer&apos;s Delight" id="farmersdelight" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/R2OftAxM/versions/AxgOboGq/FarmersDelight-1.20.1-1.2.4.jar</URL>
-			<Size>2915349</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/R2OftAxM/versions/MG1Xuspn/FarmersDelight-1.20.1-1.2.6.jar</URL>
+			<Size>2944818</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>5b6bee961b278a3edd6e3935b061fbaa</MD5>
+			<MD5>3bedf3198980957b909a2ce41557960d</MD5>
 			<Meta>
 				<license>MIT License</license>
 				<description>A cozy farming and cooking expansion for Minecraft!</description>
-				<version>1.20.1-1.2.4</version>
+				<version>1.20.1-1.2.6</version>
 				<authors>vectorwing</authors>
 			</Meta>
 		</Module>
@@ -571,16 +529,16 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="ImmediatelyFast" id="immediatelyfast" depends="" side="CLIENT">
-			<URL priority="1">https://cdn.modrinth.com/data/5ZwdcRci/versions/HfcDIKwc/ImmediatelyFast-Forge-1.3.0%2B1.20.4.jar</URL>
-			<Size>456382</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/5ZwdcRci/versions/abfWjwdT/ImmediatelyFast-Forge-1.3.3%2B1.20.4.jar</URL>
+			<Size>449097</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>7bfe7ad140ac460bc6128ee3e813a40e</MD5>
+			<MD5>40b8c5a968e7d8a4bb4f01294f187e84</MD5>
 			<Meta>
 				<license>LGPL-3.0</license>
 				<description>Speed up and optimize immediate mode rendering in Minecraft
 </description>
-				<version>1.3.0+1.20.4</version>
+				<version>1.3.3+1.20.4</version>
 				<authors>RK_01</authors>
 			</Meta>
 		</Module>
@@ -610,31 +568,17 @@ It will spawn upon your death containing all items that you had in your inventor
 				<authors>Dev and Upgrade Textures - ThatGravyBoat, All Other Textures - Kekie</authors>
 			</Meta>
 		</Module>
-		<Module name="Journeymap" id="journeymap" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/lfHFW1mp/versions/r7FWVNCs/journeymap-1.20.1-5.10.3-forge.jar</URL>
-			<Size>7160406</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>be46ebd4654a75a03ecbc5497d2ddce9</MD5>
-			<Meta>
-				<license>All rights reserved</license>
-				<description>JourneyMap: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.20-1.9-SNAPSHOT. Built: 2024-10-06-18:57:52.
-</description>
-				<version>5.10.3</version>
-				<authors>Techbrew, Mysticdrew</authors>
-			</Meta>
-		</Module>
 		<Module name="Just Enough Items" id="jei" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/u6dRKJwZ/versions/HhYs9HUP/jei-1.20.1-forge-15.20.0.104.jar</URL>
-			<Size>1406021</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/u6dRKJwZ/versions/iNv5B1Zj/jei-1.20.1-forge-15.20.0.105.jar</URL>
+			<Size>1379051</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>46bf38308872aae3351ce59d9e664437</MD5>
+			<MD5>947e4bd94640abf098f05ebbc32d0f43</MD5>
 			<Meta>
 				<license>The MIT License (MIT)</license>
 				<description>JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
 </description>
-				<version>15.20.0.104</version>
+				<version>15.20.0.105</version>
 				<authors>mezz</authors>
 			</Meta>
 		</Module>
@@ -659,20 +603,6 @@ It will spawn upon your death containing all items that you had in your inventor
 			<ModType>Regular</ModType>
 			<MD5>417caa90d17dc86cf7d24b802c2a5c56</MD5>
 		</Module>
-		<Module name="Bluemap Frontiers" id="bluemapfrontiers" depends="bluemap mapfrontiers" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/OGGG6gVy/versions/e6SxXn7W/bluemapfrontiers-1.20.1_forge-1.0.0.jar</URL>
-			<Size>30743</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<MD5>e3aedee07a35d01dfede4bf7053702bc</MD5>
-			<Meta>
-				<license>MIT</license>
-				<description>MapFrontiers integration for Bluemap
-</description>
-				<version>1.0.0</version>
-				<authors>ErdbeerbaerLP</authors>
-			</Meta>
-		</Module>
 		<Module name="Memory Leak Fix" id="memoryleakfix" depends="" side="BOTH">
 			<URL priority="1">https://cdn.modrinth.com/data/NRjRiSSD/versions/3w0IxNtk/memoryleakfix-forge-1.17%2B-1.1.5.jar</URL>
 			<Size>227925</Size>
@@ -688,16 +618,16 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="ModernFix" id="modernfix" depends="" side="CLIENT">
-			<URL priority="1">https://cdn.modrinth.com/data/nmDcB62a/versions/m83ZRQdk/modernfix-forge-5.19.4%2Bmc1.20.1.jar</URL>
-			<Size>778504</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/nmDcB62a/versions/tLSzIfcj/modernfix-forge-5.20.0%2Bmc1.20.1.jar</URL>
+			<Size>786751</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>359e779ab4f91fa48f1b1aab0dfb0821</MD5>
+			<MD5>7cd1a8b91d8e332e6e1d8015c74dfafd</MD5>
 			<Meta>
 				<license>GNU LGPL 3.0</license>
 				<description>Egregious, yet effective performance improvements for modern Minecraft
 </description>
-				<version>5.19.4+mc1.20.1</version>
+				<version>5.20.0+mc1.20.1</version>
 				<authors>embeddedt</authors>
 			</Meta>
 		</Module>
@@ -730,16 +660,16 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Oculus" id="oculus" depends="" side="CLIENT">
-			<URL priority="1">https://cdn.modrinth.com/data/GchcoXML/versions/vVuYfukI/oculus-mc1.20.1-1.7.0.jar</URL>
-			<Size>2831148</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar</URL>
+			<Size>2851119</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>45b96133bb46cc61dd9778bd4fca741d</MD5>
+			<MD5>1dd891634ac21591b5a692471f112572</MD5>
 			<Meta>
 				<license>LGPL-3.0-only</license>
 				<description>Unofficial Fork of &quot;Iris&quot;, made to work with FML
 </description>
-				<version>1.7.0</version>
+				<version>1.8.0</version>
 				<authors>NanoLive, dima_dencep, coderbot, IMS212, Justsnoopy30, FoundationGames</authors>
 			</Meta>
 			<Submodule name="BSL Shaders" id="bsl_shaders" depends="" side="CLIENT">
@@ -768,15 +698,15 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Submodule>
 		</Module>
 		<Module name="Puzzles Lib" id="puzzleslib" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/QAGBst4M/versions/CRWEHl5m/PuzzlesLib-v8.1.24-1.20.1-Forge.jar</URL>
-			<Size>1002383</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/QAGBst4M/versions/2qznQtPr/PuzzlesLib-v8.1.25-1.20.1-Forge.jar</URL>
+			<Size>1002463</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>31d7aea97858a0faa01f35a0c1071614</MD5>
+			<MD5>5d476cf7ce6bf3c2d6fe6b0358f09b70</MD5>
 			<Meta>
 				<license>MPL-2.0</license>
 				<description>Why&apos;s it called Puzzles you ask? That&apos;s the puzzle!</description>
-				<version>8.1.24</version>
+				<version>8.1.25</version>
 				<authors>Fuzs</authors>
 			</Meta>
 		</Module>
@@ -822,15 +752,15 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Sound Physics Remastered" id="sound_physics_remastered" depends="" side="CLIENT">
-			<URL priority="1">https://cdn.modrinth.com/data/qyVF9oeo/versions/AGRkYn5p/sound-physics-remastered-forge-1.20.1-1.4.5.jar</URL>
-			<Size>196564</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/qyVF9oeo/versions/O13IgRhY/sound-physics-remastered-forge-1.20.1-1.4.8.jar</URL>
+			<Size>197075</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>8f73cf66156be28fc921de0f0a5c3b8e</MD5>
+			<MD5>b943109a39c5cc7127548d53305ad249</MD5>
 			<Meta>
 				<license>GPL</license>
 				<description>Provides realistic sound attenuation, reverberation, and absorption through blocks.</description>
-				<version>1.20.1-1.4.5</version>
+				<version>1.20.1-1.4.8</version>
 				<authors>Sonic Ether, vlad2305m, Max Henkel, Saint</authors>
 			</Meta>
 		</Module>
@@ -848,41 +778,41 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="SuperMartijn642&apos;s Core Lib" id="supermartijn642corelib" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/rOUBggPv/versions/VOQdQhsn/supermartijn642corelib-1.1.17a-forge-mc1.20.1.jar</URL>
-			<Size>515364</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/rOUBggPv/versions/VWJoqHin/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar</URL>
+			<Size>515362</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>683673fc9002595a4a6b1668f33354cc</MD5>
+			<MD5>6559d43627646f16fbe02de085e98d5c</MD5>
 			<Meta>
 				<license>All rights reserved</license>
 				<description>SuperMartijn642&apos;s Core Lib adds lots of basic implementations for guis that allow for similar code between Minecraft 1.12, 1.14, 1.15, and 1.16!</description>
-				<version>1.1.17+a</version>
+				<version>1.1.18</version>
 				<authors>SuperMartijn642</authors>
 			</Meta>
 		</Module>
 		<Module name="Tidal Towns" id="mr_tidal_towns" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/EEIwvQVo/versions/jDWWQDU8/tidal-towns-1.3.3.jar</URL>
-			<Size>109410</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/EEIwvQVo/versions/aAa24NQe/tidal-towns-1.3.4.jar</URL>
+			<Size>110098</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>0f57cd844532c5c764f1a1b53d3f4052</MD5>
+			<MD5>3e0b71a61aa857a9a851a1786f07ae73</MD5>
 			<Meta>
 				<license>LicenseRef-All-Rights-Reserved</license>
 				<description>Several pieces of driftwood have been gathered to form a village that floats on the waves.</description>
-				<version>1.3.3</version>
+				<version>1.3.4</version>
 				<authors>joshieman</authors>
 			</Meta>
 		</Module>
 		<Module name="Towns and Towers" id="t_and_t" depends="cristellib" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar</URL>
-			<Size>2864275</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/DjLobEOy/versions/wF6xyXMX/t_and_t-fabric-neoforge-1.13.3.jar</URL>
+			<Size>3641884</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>237a2186d2482856f67c638c06489fb8</MD5>
+			<MD5>3dafbf1435a12bba4a617800b90ce1dd</MD5>
 			<Meta>
-				<license>https://creativecommons.org/licenses/by-nc-sa/4.0/</license>
+				<license>CC BY-NC-ND 4.0</license>
 				<description>Spice up your world with new villages, pillager outposts, and even new ships!</description>
-				<version>1.12</version>
+				<version>1.13.3</version>
 				<authors>Kubek and Biban_Auriu, Cristelknight999</authors>
 			</Meta>
 		</Module>
@@ -926,14 +856,6 @@ It will spawn upon your death containing all items that you had in your inventor
 					<authors>Cristelknight, William Wythers</authors>
 				</Meta>
 			</Submodule>
-			<Submodule name="Navigable Rivers" id="navigable_rivers" depends="" side="BOTH">
-				<URL priority="0">https://cdn.modrinth.com/data/3WdnBc3t/versions/l8XxZO8T/navigable-rivers-v1.0.1.zip</URL>
-				<ModPath>global_packs/required_data/navigable_rivers.zip</ModPath>
-				<Size>1664052</Size>
-				<Required>true</Required>
-				<ModType>Regular</ModType>
-				<MD5>69d0b84b7ec62953487b88bb4ee2d00b</MD5>
-			</Submodule>
 		</Module>
 		<Module name="Yeehaw Towns" id="yeehaw_towns" depends="" side="BOTH">
 			<URL priority="1">https://cdn.modrinth.com/data/Cz0fHRKU/versions/T98blQQY/YeehawTowns-1.0.2-1.20.1-forge.jar</URL>
@@ -961,17 +883,69 @@ It will spawn upon your death containing all items that you had in your inventor
 				<authors>Vazkii, quat, IThundxr, siuol, wiresegal, MehVahdJukaar</authors>
 			</Meta>
 		</Module>
-		<Module name="Global Packs" id="globalpacks" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/NRLPy2mk/versions/u8mx7daJ/global_packs-forge-1.19.4-1.16.2_forge.jar</URL>
-			<Size>19367</Size>
+		<Module name="Lithosphere" id="mr_lithosphere" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/iv9jp2k9/versions/7mWcbA0m/lithosphere-1.2.jar</URL>
+			<Size>415266</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>c4a434d49efc63cff43267660cca4cdf</MD5>
+			<MD5>619c123a516849260c3a312f8a6dd7a2</MD5>
 			<Meta>
-				<license>All rights reserved</license>
-				<description>Allows modpacks to add Datapacks &amp; Resource Packs
+				<license>LicenseRef-All-Rights-Reserved</license>
+				<description>Lithosphere aims to change the overworld worldgen to be more cinematic, polished and beautiful.</description>
+				<version>1.2</version>
+				<authors>Jayzet</authors>
+			</Meta>
+		</Module>
+		<Module name="Tectonic" id="tectonic" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/lWDHr9jE/versions/ubqOXeYf/tectonic-forge-1.20.1-2.4.1.jar</URL>
+			<Size>349125</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e4646116efca671837889dd58cad9844</MD5>
+			<Meta>
+				<license>MIT</license>
+				<description>Massively altered world generation with mountain ranges, underground rivers and more!</description>
+				<version>2.4.1</version>
+				<authors>Apollo</authors>
+			</Meta>
+		</Module>
+		<Module name="Terralith" id="terralith" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar</URL>
+			<Size>3156901</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b143cfd648086c68d7f47a86b8994ee3</MD5>
+			<Meta>
+				<license>Stardust Labs License</license>
+				<description>Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain.</description>
+				<version>2.5.4</version>
+				<authors>Starmute, catter1, TheKingWhale, Apollounknowndev</authors>
+			</Meta>
+		</Module>
+		<Module name="TerraBlender" id="terrablender" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/kkmrDlKT/versions/HI0iCUpi/TerraBlender-forge-1.20.1-3.0.1.7.jar</URL>
+			<Size>107534</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>59a1a66895bb140b94f9c3c26486ce80</MD5>
+			<Meta>
+				<license>LGPLv3</license>
+				<description>A library mod for adding biomes in a simple and compatible manner with Minecraft&apos;s new biome/terrain system.</description>
+				<version>3.0.1.7</version>
+				<authors>Adubbz</authors>
+			</Meta>
+		</Module>
+		<Module name="Cloth Config v10 API" id="cloth_config" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar</URL>
+			<Size>1181413</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ca5de5acbcb4a30c010aa6953bd7ef53</MD5>
+			<Meta>
+				<license>GNU LGPLv3</license>
+				<description>An API for config screens.
 </description>
-				<version>1.16.2_forge</version>
+				<version>11.1.136</version>
 				<authors></authors>
 			</Meta>
 		</Module>

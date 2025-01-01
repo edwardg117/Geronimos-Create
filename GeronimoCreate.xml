@@ -2,7 +2,6 @@
 <ServerPack version="4.1" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
 	<Server id="GeronimoCreate" abstract="false" name="Geronimo&apos;s Create" newsUrl="about:blank" version="1.20.1" serverAddress="geronimo.apexmc.co" generateList="true" autoConnect="false" revision="0.1" mainClass="cpw.mods.bootstraplauncher.BootstrapLauncher" launcherType="Vanilla">
 		<Import url="https://raw.githubusercontent.com/edwardg117/Geronimos-Create/refs/heads/main/updates/base.xml">base</Import>
-		<Import url="https://raw.githubusercontent.com/edwardg117/Geronimos-Create/refs/heads/main/updates/2024-11-10-1.xml">2024-11-10-1</Import>
 		<Import url="https://raw.githubusercontent.com/edwardg117/Geronimos-Create/refs/heads/main/config.xml">config</Import>
 		<Loader type="NeoForge" version="1.20.1-47.1.106" loadOrder="0"/>
 	</Server>
