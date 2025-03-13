@@ -543,15 +543,15 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Immersive Engineering" id="immersiveengineering" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/tIm2nV03/versions/WUzj4tgJ/ImmersiveEngineering-1.20.1-10.2.0-183.jar</URL>
-			<Size>12129396</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/tIm2nV03/versions/MAqXk6P8/ImmersiveEngineering-1.20.1-10.1.0-171.jar</URL>
+			<Size>12123365</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>258b3e4b57b464d686d464da3481bc33</MD5>
+			<MD5>d4ea94ea8bd77e11b827ebc565708874</MD5>
 			<Meta>
 				<license>Blu&apos;s License of Common Sense</license>
 				<description>A tech based mod focused on realism.</description>
-				<version>1.20.1-10.2.0-183</version>
+				<version>1.20.1-10.1.0-171</version>
 				<authors>BluSunrize and Damien A.W. Hazard</authors>
 			</Meta>
 		</Module>
