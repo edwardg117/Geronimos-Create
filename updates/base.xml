@@ -181,16 +181,15 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Create" id="create" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/LNytGWDc/versions/mXfmc8qO/create-1.20.1-6.0.2.jar</URL>
-			<Size>18345093</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/LNytGWDc/versions/6R069CcK/create-1.20.1-0.5.1.j.jar</URL>
+			<Size>15583566</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>86357382b98017a43cdc72dd9e865b70</MD5>
+			<MD5>db945b2441efa1a136d3f86126a6f813</MD5>
 			<Meta>
 				<license>MIT</license>
-				<description>Technology that empowers the player.
-</description>
-				<version>6.0.2</version>
+				<description>Technology that empowers the player.</description>
+				<version>0.5.1.j</version>
 				<authors>simibubi</authors>
 			</Meta>
 		</Module>
