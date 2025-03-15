@@ -207,7 +207,7 @@ It will spawn upon your death containing all items that you had in your inventor
 				<authors>Kayla, Talrey</authors>
 			</Meta>
 		</Module>
-		<Module name="Create Railways Navigator" id="createrailwaysnavigator" depends="architectury dragonlib create" side="BOTH">
+		<Module name="Create Railways Navigator" id="createrailwaysnavigator" depends="create" side="BOTH">
 			<URL priority="1">https://cdn.modrinth.com/data/Dq3STxps/versions/zjTf90Sp/createrailwaysnavigator-forge-1.20.1-beta-0.7.2.jar</URL>
 			<Size>2968793</Size>
 			<Required>true</Required>
