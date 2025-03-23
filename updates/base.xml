@@ -683,16 +683,16 @@ It will spawn upon your death containing all items that you had in your inventor
 			<ModType>Regular</ModType>
 			<MD5>7a45a948b525c031ca85d221dfdbed85</MD5>
 		</Module>
-		<Module name="Butcher" id="butcher" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/6YfOmC9t/versions/f9UaMc4a/butcher-3.2.1-neoforge-1.21.1.jar</URL>
-			<Size>27060020</Size>
+		<Module name="Butcher" id="butcher" depends="geckolib patchouli" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/6YfOmC9t/versions/he7DtkG1/butcher-3.3.1-neoforge-1.21.1.jar</URL>
+			<Size>27936550</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>5bc670dfc07c37adc6e7a4b312c059b8</MD5>
+			<MD5>9ff5c4c5c06200335710cb9f24da1036</MD5>
 			<Meta>
 				<license>All Rights Reserved</license>
 				<description>An immersive way of harvesting mobs</description>
-				<version>3.2</version>
+				<version>3.3</version>
 				<authors>Jmods</authors>
 			</Meta>
 		</Module>
@@ -723,6 +723,20 @@ It will spawn upon your death containing all items that you had in your inventor
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>dc2d5057c84b1a20e72bdc742598b37c</MD5>
+		</Module>
+		<Module name="Geckolib" id="geckolib" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/8BmcQJ2H/versions/QEqpUJ1G/geckolib-neoforge-1.21.1-4.7.5.1.jar</URL>
+			<Size>592730</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>eadd13cf53880e51ef49e368cc7b8168</MD5>
+		</Module>
+		<Module name="Patchouli" id="patchouli" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/nU0bVIaL/versions/MY12jUBD/Patchouli-1.21-87-NEOFORGE.jar</URL>
+			<Size>646226</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>40878106d4867d45f20a8fe5f441c29f</MD5>
 		</Module>
 	</Server>
 </ServerPack>
