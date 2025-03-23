@@ -443,7 +443,7 @@ It will spawn upon your death containing all items that you had in your inventor
 			<URL priority="1">https://cdn.modrinth.com/data/ndV543Q3/versions/RABh0PV5/neoculus-mc1.21.1-1.8.3.jar</URL>
 			<Size>3058629</Size>
 			<Required>true</Required>
-			<ModType>Regular</ModType>
+			<ModType>Removal</ModType>
 			<MD5>d58dd0fa00490aca3cb7ec09b8640ec2</MD5>
 			<Meta>
 				<license>LGPL-3.0-only</license>
@@ -457,7 +457,7 @@ It will spawn upon your death containing all items that you had in your inventor
 				<ModPath>shaderpacks/bsl_shaders.zip</ModPath>
 				<Size>1108441</Size>
 				<Required isDefault="true">false</Required>
-				<ModType>Regular</ModType>
+				<ModType>Removal</ModType>
 				<MD5>595a27ea52eb9cdd9a71cdaacb59ce2d</MD5>
 			</Submodule>
 			<Submodule name="Complementary Shaders - Unbound" id="complementary_unbound" depends="" side="CLIENT">
@@ -465,7 +465,7 @@ It will spawn upon your death containing all items that you had in your inventor
 				<ModPath>shaderpacks/complementary_unbound.zip</ModPath>
 				<Size>452408</Size>
 				<Required isDefault="true">false</Required>
-				<ModType>Regular</ModType>
+				<ModType>Removal</ModType>
 				<MD5>94f56d5c5c343b9a0f4ad7eb135f9afa</MD5>
 			</Submodule>
 			<Submodule name="MakeUp - Ultra Fast" id="makeup_ultrafast" depends="" side="CLIENT">
@@ -473,7 +473,7 @@ It will spawn upon your death containing all items that you had in your inventor
 				<ModPath>shaderpacks/makeup_ultrafast.zip</ModPath>
 				<Size>372691</Size>
 				<Required isDefault="true">false</Required>
-				<ModType>Regular</ModType>
+				<ModType>Removal</ModType>
 				<MD5>44d0e1ca4286d06dd3a57e0048a5be86</MD5>
 			</Submodule>
 		</Module>
@@ -682,6 +682,47 @@ It will spawn upon your death containing all items that you had in your inventor
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>7a45a948b525c031ca85d221dfdbed85</MD5>
+		</Module>
+		<Module name="Butcher" id="butcher" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/6YfOmC9t/versions/he7DtkG1/butcher-3.3.1-neoforge-1.21.1.jar</URL>
+			<Size>27936550</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9ff5c4c5c06200335710cb9f24da1036</MD5>
+			<Meta>
+				<license>All Rights Reserved</license>
+				<description>An immersive way of harvesting mobs</description>
+				<version>3.3</version>
+				<authors>Jmods</authors>
+			</Meta>
+		</Module>
+		<Module name="Tom&apos;s Simple Storage Mod" id="tomssimplestoragemod" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/XZNI4Cpy/versions/r27zH9Nx/toms_storage-1.21-2.1.1.jar</URL>
+			<Size>817833</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>643a737063aad0a31d47325c9ac36796</MD5>
+		</Module>
+		<Module name="Small Ships" id="smallships" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/rGWEHQrP/versions/6poGZvvr/smallships-neoforge-1.21.1-2.0.0-b2.1.jar</URL>
+			<Size>1914804</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>5ff0455c59b267bd19a308ba9995a694</MD5>
+		</Module>
+		<Module name="Immersive Aircraft" id="immersiveaircraft" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/x3HZvrj6/versions/7WESp92R/immersive_aircraft-1.2.2%2B1.21.1-neoforge.jar</URL>
+			<Size>2187626</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ad79389e1f64353fb144d5d5aac605cb</MD5>
+		</Module>
+		<Module name="Man of Many Planes" id="manofmanyplanes" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/9qdTHi0q/versions/onE42Qs7/man_of_many_planes-0.2.1%2B1.21.1-neoforge.jar</URL>
+			<Size>725743</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>dc2d5057c84b1a20e72bdc742598b37c</MD5>
 		</Module>
 	</Server>
 </ServerPack>
