@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerPack version="4.1" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
-	<Server id="config" abstract="false" name="config" newsUrl="about:blank" version="1.20.1" generateList="false" autoConnect="false" revision="" mainClass="net.minecraft.launchwrapper.Launch" launcherType="Vanilla">
+	<Server id="config" abstract="false" name="config" newsUrl="about:blank" version="1.21.1" generateList="false" autoConnect="false" revision="" mainClass="net.minecraft.launchwrapper.Launch" launcherType="Vanilla">
 		<Module name="Techtonic" id="techtonic" depends="" side="BOTH">
 			<Size>0</Size>
 			<Required>false</Required>
