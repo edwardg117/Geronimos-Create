@@ -650,15 +650,15 @@ It will spawn upon your death containing all items that you had in your inventor
 			<MD5>b4ed567900eb0a0e11ca3bd6c1a7fdf6</MD5>
 		</Module>
 		<Module name="FallingTree" id="fallingtree" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/Fb4jn8m6/versions/VZaMZN0O/FallingTree-1.21.4-1.21.4.7.jar</URL>
-			<Size>469063</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/Fb4jn8m6/versions/JtSM2Voq/FallingTree-1.21.1-1.21.1.7.jar</URL>
+			<Size>468618</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>daf1f9102bf852609cc6ba2a6024533d</MD5>
+			<MD5>6721402b8e98c24140d1b25e83fd9337</MD5>
 			<Meta>
 				<license>LGPL-3.0</license>
 				<description>Change the way you cut trees.</description>
-				<version>1.21.4.7</version>
+				<version>1.21.1.7</version>
 				<authors>Rakambda</authors>
 			</Meta>
 		</Module>
@@ -675,6 +675,13 @@ It will spawn upon your death containing all items that you had in your inventor
 			<Required>true</Required>
 			<ModType>Regular</ModType>
 			<MD5>a05b21be4721465d80a531eed88443df</MD5>
+		</Module>
+		<Module name="Architectury API" id="architecturyapi" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar</URL>
+			<Size>584004</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>7a45a948b525c031ca85d221dfdbed85</MD5>
 		</Module>
 	</Server>
 </ServerPack>
