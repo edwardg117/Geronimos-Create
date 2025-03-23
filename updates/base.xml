@@ -684,15 +684,15 @@ It will spawn upon your death containing all items that you had in your inventor
 			<MD5>7a45a948b525c031ca85d221dfdbed85</MD5>
 		</Module>
 		<Module name="Butcher" id="butcher" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/6YfOmC9t/versions/he7DtkG1/butcher-3.3.1-neoforge-1.21.1.jar</URL>
-			<Size>27936550</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/6YfOmC9t/versions/f9UaMc4a/butcher-3.2.1-neoforge-1.21.1.jar</URL>
+			<Size>27060020</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>9ff5c4c5c06200335710cb9f24da1036</MD5>
+			<MD5>5bc670dfc07c37adc6e7a4b312c059b8</MD5>
 			<Meta>
 				<license>All Rights Reserved</license>
 				<description>An immersive way of harvesting mobs</description>
-				<version>3.3</version>
+				<version>3.2</version>
 				<authors>Jmods</authors>
 			</Meta>
 		</Module>
