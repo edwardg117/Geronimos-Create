@@ -738,5 +738,19 @@ It will spawn upon your death containing all items that you had in your inventor
 			<ModType>Regular</ModType>
 			<MD5>40878106d4867d45f20a8fe5f441c29f</MD5>
 		</Module>
+		<Module name="Xaero&apos;s World Map" id="xaerosworldmap" depends="" side="CLIENT">
+			<URL priority="1">https://cdn.modrinth.com/data/NcUtCpym/versions/JlPz5UbU/XaerosWorldMap_1.39.4_NeoForge_1.21.jar</URL>
+			<Size>928728</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>adeaeab83fcd7ce23f2ad6ede21d5d57</MD5>
+		</Module>
+		<Module name="Xaero&apos;s Minimap" id="xaerosminimap" depends="" side="CLIENT">
+			<URL priority="1">https://cdn.modrinth.com/data/1bokaNcj/versions/DHYXuO0J/Xaeros_Minimap_25.2.0_NeoForge_1.21.jar</URL>
+			<Size>1689472</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4ec6365eab4431ffef34fffccc25500b</MD5>
+		</Module>
 	</Server>
 </ServerPack>
