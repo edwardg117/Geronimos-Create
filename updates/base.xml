@@ -752,5 +752,174 @@ It will spawn upon your death containing all items that you had in your inventor
 			<ModType>Regular</ModType>
 			<MD5>4ec6365eab4431ffef34fffccc25500b</MD5>
 		</Module>
+		<Module name="Horseshoes" id="horseshoes" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/tyg1IZwj/versions/Et9ECsM1/horseshoes-neoforge-1.21.1-1.3.1.jar</URL>
+			<Size>44836</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8ba15a641f7baf635b43f4ba6d14e5e1</MD5>
+		</Module>
+		<Module name="Magnum Torch" id="magnumtorch" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/jorDmSKv/versions/wuc5gqR2/MagnumTorch-v21.1.0-1.21.1-NeoForge.jar</URL>
+			<Size>87930</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>74c403d223b1304aadf0544a70c2c7bd</MD5>
+		</Module>
+		<Module name="Faster Paths" id="mr_faster_paths" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/dDo4Wd28/versions/FggEf1Zf/faster-paths-2.0.jar</URL>
+			<Size>3652</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>67579d5848026612c98544520e6c16f1</MD5>
+			<Meta>
+				<license>MIT</license>
+				<description>This basically gives you speed 1 or 2 on path blocks depending on the version</description>
+				<version>2.0</version>
+				<authors>JacobA0225, Bumstronaut</authors>
+			</Meta>
+		</Module>
+		<Module name="Horseman" id="horseman" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/qIv5FhAA/versions/wnmTFPEN/horseman-neoforge-1.21.1-1.2.0.jar</URL>
+			<Size>267720</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>5f8e10adedd516b92abf58fd86cee9a8</MD5>
+		</Module>
+		<Module name="Better Horses" id="betterhorses" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/cnZjxS9g/versions/KRZJjI0A/betterhorses-neoforge-1.21.1-1.0.0.jar</URL>
+			<Size>38905</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>58ae6fc192006483bb05547ac1fda618</MD5>
+		</Module>
+		<Module name="Animal Armor Trims" id="animal_armor_trims" depends="monolib" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/YmFaSpcI/versions/3nPkad5j/animal_armor_trims-merged-1.21-2.0.0.jar</URL>
+			<Size>533568</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d968eed4c46c879e90c7aaf1c243e3be</MD5>
+			<Meta>
+				<license>All Rights Reserved</license>
+				<description>Allows the application of armor trims to dog and horse armor!</description>
+				<version>2.0.0</version>
+				<authors>Lupin, Jason13</authors>
+			</Meta>
+		</Module>
+		<Module name="Forge Config API Port" id="forgeconfigapiport" depends="" side="BOTH">
+			<URL priority="1">https://modrinth.com/mod/forge-config-api-port/version/v21.1.3-1.21.1-NeoForge</URL>
+			<Size>755479</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>edffcf95ffeedc0947c55e879b674d17</MD5>
+		</Module>
+		<Module name="Common Network" id="commonnetwork" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/HIuqnQpi/versions/QYLtKTFr/common-networking-neoforge-1.0.18-1.21.1.jar</URL>
+			<Size>25713</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>721228115c416e02ebae1607530ea2b3</MD5>
+		</Module>
+		<Module name="MonoLib" id="monolib" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/9leXt4A5/versions/Tw5zPYET/monolib-neoforge-1.21.1-2.0.0.jar</URL>
+			<Size>146049</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d3cad148ef29aa8f26eb7e163be49640</MD5>
+		</Module>
+		<Module name="Lifted Horizons" id="lifted_horizons" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/Nlt0548K/versions/4Yelzs1n/lifted_horizons-1.2.0-neoforge-1.21.1.jar</URL>
+			<Size>2843748</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a735cbeaf81735a8cfcf7be97d9f0cac</MD5>
+			<Meta>
+				<license>Not specified</license>
+				<description></description>
+				<version>1.0.0</version>
+				<authors>Kster, MCreator</authors>
+			</Meta>
+		</Module>
+		<Module name="End Remastered" id="endremastered" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/ZJTGwAND/versions/aqYxfNAS/endrem-neoforge-1.21.X-6.0.2.jar</URL>
+			<Size>942510</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>5b4a18c9dd13c7df7f62edc51003013c</MD5>
+		</Module>
+		<Module name="Nullscape" id="nullscape" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/LPjGiSO4/versions/dHJAVX8s/Nullscape_1.21.x_v1.2.10.jar</URL>
+			<Size>350980</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a9c29c390b980f1e35467783b45cd5a5</MD5>
+			<Meta>
+				<license>Stardust Labs License</license>
+				<description>Transforms the boring Vanilla end into an alien dimension with the most surreal terrain imaginable. Topped with a couple of new biomes to add to the experience, whilst keeping the end desolate.</description>
+				<version>1.2.10</version>
+				<authors>Starmute, catter1</authors>
+			</Meta>
+		</Module>
+		<Module name="MES - Moog&apos;s End Structures" id="mes" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/r4PuRGfV/versions/JibtQYn5/mes-1.3.5-1.21.jar</URL>
+			<Size>1161207</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>794aeb7412620414a6f1c9833382d490</MD5>
+		</Module>
+		<Module name="Curios API" id="curiosapi" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/vvuO3ImH/versions/aOzmr3vR/curios-neoforge-9.4.0%2B1.21.1.jar</URL>
+			<Size>399005</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>3b8dd3bd23479ab8acf1126b37303197</MD5>
+		</Module>
+		<Module name="Lionfish-API" id="lionfish_api" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/FoVacERa/versions/RdsxgL41/lionfishapi-2.6.jar</URL>
+			<Size>92312</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f27209702fbb13f1dccb98e77931b5ae</MD5>
+		</Module>
+		<Module name="L_Ender&apos;s Cataclysm" id="l_enders_cataclysm" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/46KJle7n/versions/uWtRXlbj/L_Ender%27s%20Cataclysm-2.63-1.21.1.jar</URL>
+			<Size>72187699</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ead63f6aa6316c413e0b2ae4fb93d19c</MD5>
+		</Module>
+		<Module name="Simple Voice Chat" id="simplevoicechat" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/9eGKb6K1/versions/XIkkFeGA/voicechat-neoforge-1.21.1-2.5.29.jar</URL>
+			<Size>6144400</Size>
+			<Required>false</Required>
+			<ModType>Regular</ModType>
+			<MD5>7465d31f0f06d696f6e901df0c1daa39</MD5>
+		</Module>
+		<Module name="Explorify" id="explorify" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/HSfsxuTo/versions/yRSH0sWM/Explorify%20v1.6.2%20f10-48.jar</URL>
+			<Size>974818</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8ae334fc2bab2ea069e3af64f66a5703</MD5>
+			<Meta>
+				<license>ARR</license>
+				<description>A simplistic, vanilla-friendly collection of new structures.</description>
+				<version>1.6.2</version>
+				<authors>bebebea_loste</authors>
+			</Meta>
+		</Module>
+		<Module name="Incendium" id="incendium" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/ZVzW5oNS/versions/7mVvV9Th/Incendium_1.21.x_v5.4.4.jar</URL>
+			<Size>4267528</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>37793d374c89e38074bde664fe36df59</MD5>
+			<Meta>
+				<license>Stardust Labs License</license>
+				<description>A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat.</description>
+				<version>5.4.3</version>
+				<authors>Starmute, catter1, TheKingWhale, rx97, Rei_the_Goat</authors>
+			</Meta>
+		</Module>
 	</Server>
 </ServerPack>
