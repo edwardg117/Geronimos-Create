@@ -673,7 +673,7 @@ It will spawn upon your death containing all items that you had in your inventor
 			<URL priority="1">https://cdn.modrinth.com/data/O1XGs7ps/versions/IfDkDfDd/expanded_ecosphere-neoforge-3.4.1.1.jar</URL>
 			<Size>1816965</Size>
 			<Required>true</Required>
-			<ModType>Regular</ModType>
+			<ModType>Removal</ModType>
 			<MD5>a05b21be4721465d80a531eed88443df</MD5>
 		</Module>
 		<Module name="Architectury API" id="architecturyapi" depends="" side="BOTH">
@@ -810,7 +810,7 @@ It will spawn upon your death containing all items that you had in your inventor
 			<URL priority="1">https://modrinth.com/mod/forge-config-api-port/version/v21.1.3-1.21.1-NeoForge</URL>
 			<Size>755479</Size>
 			<Required>true</Required>
-			<ModType>Regular</ModType>
+			<ModType>Removal</ModType>
 			<MD5>edffcf95ffeedc0947c55e879b674d17</MD5>
 		</Module>
 		<Module name="Common Network" id="commonnetwork" depends="" side="BOTH">
