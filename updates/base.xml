@@ -122,11 +122,11 @@
 			</Meta>
 		</Module>
 		<Module name="Controlling" id="controlling" depends="searchables" side="CLIENT">
-			<URL priority="1">https://cdn.modrinth.com/data/xv94TkTM/versions/zPQmabzR/Controlling-neoforge-1.21.1-19.0.4.jar</URL>
-			<Size>77508</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar</URL>
+			<Size>77555</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>2292fed6128536da67b56d19b9fc756e</MD5>
+			<MD5>7141c2d0bb774dc6e4481be32b685179</MD5>
 			<Meta>
 				<license>MIT</license>
 				<description>Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu.
@@ -218,11 +218,11 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Cyclops Core" id="cyclopscore" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/Z9DM0LJ4/versions/Lt7istGt/cyclopscore-1.21.1-neoforge-1.25.7.jar</URL>
-			<Size>1136755</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/Z9DM0LJ4/versions/4qqRMkwm/cyclopscore-1.21.1-neoforge-1.25.8.jar</URL>
+			<Size>1136785</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>6673ae72191e1b3f61c4489715e8cfa4</MD5>
+			<MD5>d0333f5491385ceed223ea1e2e896f15</MD5>
 			<Meta>
 				<license>MIT</license>
 				<description>Coremod for Integrated Dynamics, EvilCraft and others.
@@ -232,11 +232,11 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Distant Horizons" id="distanthorizons" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/uCdwusMi/versions/vA2Ju8Tu/DistantHorizons-fabric-neoforge-2.3.0-b-1.21.1.jar</URL>
-			<Size>17936423</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/uCdwusMi/versions/jkSxZOJh/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.1.jar</URL>
+			<Size>17943813</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>c7c162149c5415a845d10c687c7c9800</MD5>
+			<MD5>697441dcb42cff61f8bda975d8061e1b</MD5>
 			<Meta>
 				<version>2.3.0-b</version>
 			</Meta>
@@ -505,11 +505,11 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Sound Physics Remastered" id="sound_physics_remastered" depends="" side="CLIENT">
-			<URL priority="1">https://cdn.modrinth.com/data/qyVF9oeo/versions/LgdCGVoe/sound-physics-remastered-neoforge-1.21.1-1.4.8.jar</URL>
-			<Size>192601</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/qyVF9oeo/versions/xhIsCIPl/sound-physics-remastered-neoforge-1.21.1-1.4.12.jar</URL>
+			<Size>199964</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>f3786af78ff7f18d45f3aac9939a32e9</MD5>
+			<MD5>4a0a761f2b07a1967edc82e7e5525c69</MD5>
 			<Meta>
 				<license>GPL</license>
 				<description>Provides realistic sound attenuation, reverberation, and absorption through blocks.</description>
@@ -697,11 +697,11 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Tom&apos;s Simple Storage Mod" id="tomssimplestoragemod" depends="" side="BOTH">
-			<URL priority="1">https://cdn.modrinth.com/data/XZNI4Cpy/versions/r27zH9Nx/toms_storage-1.21-2.1.1.jar</URL>
-			<Size>817833</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/XZNI4Cpy/versions/eNhDi6wG/toms_storage-1.21-2.1.2.jar</URL>
+			<Size>818010</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
-			<MD5>643a737063aad0a31d47325c9ac36796</MD5>
+			<MD5>5b06de2312097a2fed37f6ceaa652519</MD5>
 		</Module>
 		<Module name="Small Ships" id="smallships" depends="" side="BOTH">
 			<URL priority="1">https://cdn.modrinth.com/data/rGWEHQrP/versions/6poGZvvr/smallships-neoforge-1.21.1-2.0.0-b2.1.jar</URL>
@@ -807,11 +807,11 @@ It will spawn upon your death containing all items that you had in your inventor
 			</Meta>
 		</Module>
 		<Module name="Forge Config API Port" id="forgeconfigapiport" depends="" side="BOTH">
-			<URL priority="1">https://modrinth.com/mod/forge-config-api-port/version/v21.1.3-1.21.1-NeoForge</URL>
-			<Size>755479</Size>
+			<URL priority="1">https://cdn.modrinth.com/data/ohNO6lps/versions/iigguueA/ForgeConfigAPIPort-v21.1.3-1.21.1-NeoForge.jar</URL>
+			<Size>104469</Size>
 			<Required>true</Required>
 			<ModType>Removal</ModType>
-			<MD5>edffcf95ffeedc0947c55e879b674d17</MD5>
+			<MD5>979e94caaeb69bb7ea5ff4a7807f5501</MD5>
 		</Module>
 		<Module name="Common Network" id="commonnetwork" depends="" side="BOTH">
 			<URL priority="1">https://cdn.modrinth.com/data/HIuqnQpi/versions/QYLtKTFr/common-networking-neoforge-1.0.18-1.21.1.jar</URL>
