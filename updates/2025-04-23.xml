@@ -79,5 +79,12 @@
 			<ModType>Regular</ModType>
 			<MD5>f25de0ac06c14288a1d748c91a00c99a</MD5>
 		</Module>
+		<Module name="Feature Recycler" id="feature_recycler" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/IAzu52kG/versions/TsMXDaL7/Feature-Recycler-neoforge-2.0.0.jar</URL>
+			<Size>144306</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>56bd16468ad0f8ea805979e7c0a8b265</MD5>
+		</Module>
 	</Server>
 </ServerPack>
