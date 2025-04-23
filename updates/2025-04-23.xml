@@ -58,5 +58,26 @@
 			<Required>false</Required>
 			<ModType>Removal</ModType>
 		</Module>
+		<Module name="L_Ender&apos;s Cataclysm" id="l_enders_cataclysm" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/46KJle7n/versions/F7PnB5dO/L_Ender%27s%20Cataclysm-2.65-1.21.1.jar</URL>
+			<Size>72189791</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>82056e1f3bd74ca80f62bc61b8eacbae</MD5>
+		</Module>
+		<Module name="Curios API" id="curiosapi" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/vvuO3ImH/versions/6PllU1Iq/curios-neoforge-9.4.2%2B1.21.1.jar</URL>
+			<Size>402149</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>72c74ca64ac91fde033d69c9c2e45154</MD5>
+		</Module>
+		<Module name="L_Ender &apos;s Cataclysm Delight" id="l_ender s_cataclysm_delight" depends="" side="BOTH">
+			<URL priority="1">https://modrinth.com/mod/l_enders-cataclysm-delight</URL>
+			<Size>359430</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8b665b2ed0cb0dab2e56ab4f14fd64ee</MD5>
+		</Module>
 	</Server>
 </ServerPack>
