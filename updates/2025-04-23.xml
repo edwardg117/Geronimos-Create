@@ -73,7 +73,7 @@
 			<MD5>72c74ca64ac91fde033d69c9c2e45154</MD5>
 		</Module>
 		<Module name="L_Ender &apos;s Cataclysm Delight" id="l_ender s_cataclysm_delight" depends="" side="BOTH">
-			<URL priority="1">https://modrinth.com/mod/l_enders-cataclysm-delight</URL>
+			<URL priority="1">https://cdn.modrinth.com/data/a48R8AGk/versions/D59p3CEt/lendersdelight-1.0.6-1.21.1.jar</URL>
 			<Size>359430</Size>
 			<Required>true</Required>
 			<ModType>Regular</ModType>
