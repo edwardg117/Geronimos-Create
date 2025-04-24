@@ -93,5 +93,10 @@
 			<ModType>Regular</ModType>
 			<MD5>429c693999fad17d6fe35f2aeea92b18</MD5>
 		</Module>
+		<Module name="Horseshoes" id="horseshoes" depends="" side="BOTH">
+			<Size>100000</Size>
+			<Required>false</Required>
+			<ModType>Removal</ModType>
+		</Module>
 	</Server>
 </ServerPack>
