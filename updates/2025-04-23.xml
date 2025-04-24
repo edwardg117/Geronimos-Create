@@ -86,5 +86,12 @@
 			<ModType>Regular</ModType>
 			<MD5>56bd16468ad0f8ea805979e7c0a8b265</MD5>
 		</Module>
+		<Module name="Lithium" id="lithium" depends="" side="BOTH">
+			<URL priority="1">https://cdn.modrinth.com/data/gvQqBUqZ/versions/xYxpXTIt/lithium-neoforge-0.15.0%2Bmc1.21.1.jar</URL>
+			<Size>747405</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>429c693999fad17d6fe35f2aeea92b18</MD5>
+		</Module>
 	</Server>
 </ServerPack>
